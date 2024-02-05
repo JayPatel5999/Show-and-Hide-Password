@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient( 135deg, #EFB495, #EF9595);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container input{
+    width: 250px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin: 10px 0;
+}
